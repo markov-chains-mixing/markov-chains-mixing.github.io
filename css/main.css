@@ -3,6 +3,10 @@
   margin-left: 160px; /* Same as the width of the sidebar */
   padding: 0px 10px;
 }
+body {
+    margin: 60px auto;
+    width: 70%;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
