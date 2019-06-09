@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Markov Chains and Mixing Times
+**Markov Chains and Mixing Times**, by David Levin and Yuval Peres, with contributions by Elizabeth Wilmer. American Mathematical Society, second revised edition, 2017. [free <a href="https://github.com/yuvalperes/markov-chains/blob/master/markov_chains_book.pdf">download pdf</a>]
 
-You can use the [editor on GitHub](https://github.com/markov-chains-mixing/markov-chains-mixing.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<div style="float: left">
+    
+![Book Cover](https://github.com/yuvalperes/markov-chains/blob/master/mcmt_cover_photo.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This book is an introduction to the modern theory of Markov chains, whose goal is to determine the rate of convergence to the stationary distribution, as a function of state space size and geometry. This topic has important connections to combinatorics, statistical physics, and theoretical computer science. Many of the techniques presented originate in these disciplines.The central tools for estimating convergence times, including coupling, strong stationary times, and spectral methods, are developed. The authors discuss many examples, including card shuffling and the Ising model, from statistical mechanics, and present the connection of random walks to electrical networks and apply it to estimate hitting and cover times.The first edition has been used in courses in mathematics and computer science departments of numerous universities. The second edition features three new chapters (on monotone chains, the exclusion process, and stationary times) and also includes smaller additions and corrections throughout. Updated notes at the end of each chapter inform the reader of recent research developments.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/markov-chains-mixing/markov-chains-mixing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For hardcover copies and reviews, see the <a href="https://www.amazon.com/Markov-Chains-Mixing-Times-David/dp/1470429624">Amazon page</a> for this book.
+</div>
