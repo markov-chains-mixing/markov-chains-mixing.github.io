@@ -4,7 +4,7 @@
   padding: 0px 10px;
 }
 body {
-    margin-left: 70px;
+    margin-left: 70px auto;
     width: 80%;
     float: center
 }
