@@ -8,7 +8,6 @@ div {
   white-space: normal;
 }
 .wrapper {
-    overflow: auto;
     margin: auto;
     width: 960px;
 }
