@@ -6,7 +6,7 @@
 body {
     margin: 70px auto;
     width: 70%;
-    float: right
+    float: center
 }
 .wrapper {
     overflow: auto;
