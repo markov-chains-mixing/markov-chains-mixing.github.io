@@ -9,6 +9,8 @@ body {
 div {
   word-wrap: break-word;
   white-space: normal;
+  resize: both;
+  overflow: auto;
 }
 .wrapper {
     margin: auto;
